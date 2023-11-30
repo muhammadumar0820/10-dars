@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    background-color: #23253A;
+}
+
+.container{
+    background-color: #23253A;
+}
+
+.describtion h1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 13px;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+
+.describtion p{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px; /* 50% */
+    margin-right: 13px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.cards{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card{
+    background-color: #23253A;
+}
+
+.alled{
+    background-color: #23253A;
+    text-align: center;   
+}
